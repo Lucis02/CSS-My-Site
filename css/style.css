@@ -12,14 +12,13 @@ h1{
 
 #middle-container{
     background-color: red;
-    
-    padding: 100px;
-    margin-right: 1500px;
+    width: 200px;
+    height: 200px;
 }
 
 #bottom-container
 {
     background-color: blue;
-    padding: 100px;
-    margin-right: 1500px;
+    width: 200px;
+    height: 200px;
 }
